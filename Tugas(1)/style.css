@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+.matkul-ketiga {
+    color: blue;
+    font-family: Arial;
+}
+
+#quote {
+    font-style: italic;
+}
